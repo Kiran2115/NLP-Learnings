@@ -1,0 +1,83 @@
+DiseaseName,Indication,RegimenName
+Breast Cancer,"HER2 negative: Neoadjuvant, Adjuvant, Recurrent, or Metastatic",AC (DOXOrubicin/Cyclophosphamide) Every 21 Days
+Breast Cancer,HER2 negative: Neoadjuvant or Adjuvant,AC (DOXOrubicin/Cyclophosphamide) Every 21 Days followed by PACLitaxel Weekly—AC (DOXOrubicin/Cyclophosphamide) Every 21 Days Course
+Breast Cancer,HER2 negative: Neoadjuvant or Adjuvant,AC (DOXOrubicin/Cyclophosphamide) Every 21 Days followed by PACLitaxel Weekly—PACLitaxel Weekly Course
+Breast Cancer,"HER2 negative: Neoadjuvant, Adjuvant, Recurrent, or Metastatic",EC (EpiRUBicin/Cyclophosphamide)
+Breast Cancer,HER2 negative: Neoadjuvant or Adjuvant,TAC (DOCEtaxel/DOXOrubicin/Cyclophosphamide)
+Breast Cancer,"HER2 negative: Neoadjuvant, Adjuvant, Recurrent, or Metastatic",CMF (Oral Cyclophosphamide/Methotrexate/Fluorouracil)
+Breast Cancer,HER2 negative: Neoadjuvant or Adjuvant,Dose-Dense AC (DOXOrubicin/Cyclophosphamide) followed by PACLitaxel—Dose-Dense AC (DOXOrubicin/Cyclophosphamide) Course
+Breast Cancer,HER2 negative: Neoadjuvant or Adjuvant,Dose-Dense AC (DOXOrubicin/Cyclophosphamide) followed by PACLitaxel—PACLitaxel Every 14 Days Course
+Breast Cancer,HER2 negative: Neoadjuvant or Adjuvant,Dose-Dense AC (DOXOrubicin/Cyclophosphamide) followed by PACLitaxel—PACLitaxel Weekly Course
+Breast Cancer,HER2 positive: Neoadjuvant or Adjuvant,AC (DOXOrubicin/Cyclophosphamide) Every 21 Days followed by T (PACLitaxel) Weekly + Trastuzumab—AC (DOXOrubicin/Cyclophosphamide) Every 21 Days Course
+Breast Cancer,HER2 positive: Neoadjuvant or Adjuvant,AC (DOXOrubicin/Cyclophosphamide) Every 21 Days followed by T (PACLitaxel) Weekly + Trastuzumab—T (PACLitaxel) Weekly + Trastuzumab Course
+Breast Cancer,HER2 positive: Neoadjuvant or Adjuvant,TCH (DOCEtaxel/CARBOplatin + Trastuzumab)
+Breast Cancer,HER2 negative: Recurrent or Metastatic,EpiRUBicin
+Breast Cancer,HER2 negative: Recurrent or Metastatic,Liposomal DOXOrubicin
+Breast Cancer,HER2 negative: Recurrent or Metastatic,DOXOrubicin Every 21 Days
+Breast Cancer,HER2 negative: Recurrent or Metastatic,DOXOrubicin Weekly
+Breast Cancer,HER2 positive: Recurrent or Metastatic,Trastuzumab
+Breast Cancer,HER2 positive: Neoadjuvant or Adjuvant,AC (DOXOrubicin/Cyclophosphamide) Every 21 Days followed by DOCEtaxel Every 21 Days + Trastuzumab—AC (DOXOrubicin/Cyclophosphamide) Every 21 Days Course
+Breast Cancer,HER2 positive: Neoadjuvant or Adjuvant,AC (DOXOrubicin/Cyclophosphamide) Every 21 Days followed by DOCEtaxel Every 21 Days + Trastuzumab—DOCEtaxel Every 21 Days + Trastuzumab Course
+Breast Cancer,HER2 negative: Recurrent or Metastatic,PACLitaxel Every 21 Days
+Breast Cancer,HER2 negative: Recurrent or Metastatic,PACLitaxel Weekly
+Breast Cancer,HER2 negative: Recurrent or Metastatic,DOCEtaxel Weekly
+Breast Cancer,HER2 negative: Recurrent or Metastatic,DOCEtaxel Every 21 Days
+Breast Cancer,HER2 negative: Recurrent or Metastatic,Capecitabine
+Breast Cancer,HER2 negative: Recurrent or Metastatic,VinORELBine
+Breast Cancer,HER2 negative: Recurrent or Metastatic,Gemcitabine
+Breast Cancer,HER2 negative: Recurrent or Metastatic,Albumin-bound PACLitaxel
+Breast Cancer,HER2 negative: Recurrent or Metastatic,PACLitaxel + Bevacizumab
+Breast Cancer,HER2 negative: Recurrent or Metastatic,DOCEtaxel/Capecitabine
+Breast Cancer,HER2 negative: Recurrent or Metastatic,PACLitaxel/Gemcitabine
+Breast Cancer,HER2 positive: Recurrent or Metastatic,PACLitaxel/CARBOplatin Every 21 Days + Trastuzumab
+Breast Cancer,HER2 positive: Recurrent or Metastatic,PACLitaxel/CARBOplatin Weekly + Trastuzumab
+Breast Cancer,HER2 positive: Recurrent or Metastatic,PACLitaxel Every 21 Days + Trastuzumab
+Breast Cancer,HER2 positive: Recurrent or Metastatic,PACLitaxel Weekly + Trastuzumab
+Breast Cancer,HER2 positive: Recurrent or Metastatic,DOCEtaxel Every 21 Days + Trastuzumab
+Breast Cancer,HER2 positive: Recurrent or Metastatic,DOCEtaxel Weekly + Trastuzumab
+Breast Cancer,HER2 positive: Recurrent or Metastatic,VinORELBine Weekly + Trastuzumab
+Breast Cancer,HER2 positive: Recurrent or Metastatic,Lapatinib/Capecitabine
+Breast Cancer,HER2 negative: Neoadjuvant or Adjuvant,TC (DOCEtaxel/Cyclophosphamide)
+Breast Cancer,HER2 negative: Recurrent or Metastatic,Ixabepilone
+Breast Cancer,"HER2 negative, Hormone receptor negative, and BRCA1/2 positive: Recurrent or Metastatic",CISplatin
+Breast Cancer,HER2 negative: Neoadjuvant or Adjuvant,AC (DOXOrubicin/Cyclophosphamide) Every 21 Days followed by DOCEtaxel Every 21 Days—AC (DOXOrubicin/Cyclophosphamide) Every 21 Days Course
+Breast Cancer,HER2 negative: Neoadjuvant or Adjuvant,AC (DOXOrubicin/Cyclophosphamide) Every 21 Days followed by DOCEtaxel Every 21 Days—DOCEtaxel Every 21 Days Course
+Breast Cancer,HER2 negative: Recurrent or Metastatic,Cyclophosphamide
+Breast Cancer,HER2 positive: Recurrent or Metastatic,Capecitabine + Trastuzumab
+Breast Cancer,HER2 positive: Recurrent or Metastatic,Lapatinib + Trastuzumab
+Breast Cancer,HER2 negative: Recurrent or Metastatic,EriBULin
+Bone Cancer,"Ewing sarcoma or Mesenchymal chondrosarcoma: Neoadjuvant, Adjuvant, or Metastatic",VIDE (VinCRIStine/Ifosfamide/DOXOrubicin [or DACTINomycin]/Etoposide)
+Bone Cancer,Ewing sarcoma or Mesenchymal chondrosarcoma: Metastatic,VDC (Cyclophosphamide/VinCRIStine/DOXOrubicin [or DACTINomycin])
+Bone Cancer,"Ewing sarcoma, Mesenchymal chondrosarcoma, Osteosarcoma, Dedifferentiated chondrosarcoma, or High-grade undifferentiated pleomorphic sarcoma (UPS) of the bone: Relapsed, Refractory, or Metastatic",Cyclophosphamide/Topotecan
+Bone Cancer,"Ewing sarcoma or Mesenchymal chondrosarcoma: Relapsed, Refractory, or Metastatic",Temozolomide/Irinotecan
+Bone Cancer,"Osteosarcoma, Dedifferentiated chondrosarcoma, or High-grade undifferentiated pleomorphic sarcoma (UPS) of the bone: Neoadjuvant, Adjuvant, or Metastatic",CISplatin/DOXOrubicin
+Bone Cancer,"Ewing sarcoma or Mesenchymal chondrosarcoma: Neoadjuvant, Adjuvant, or Metastatic",VAI (VinCRIStine/DOXOrubicin [alternating with DACTINomycin]/Ifosfamide)
+Bone Cancer,"Ewing sarcoma or Mesenchymal chondrosarcoma: Neoadjuvant, Adjuvant, or Metastatic",VDC-IE (VinCRIStine/DOXOrubicin [or DACTINomycin]/Cyclophosphamide-Ifosfamide/Etoposide)—VDC (VinCRIStine/DOXOrubicin [or DACTINomycin]/Cyclophosphamide) Course
+Bone Cancer,"Ewing sarcoma or Mesenchymal chondrosarcoma: Neoadjuvant, Adjuvant, or Metastatic",VDC-IE (VinCRIStine/DOXOrubicin [or DACTINomycin]/Cyclophosphamide-Ifosfamide/Etoposide)—IE (Ifosfamide/Etoposide) Course
+Bone Cancer,"Osteosarcoma, Dedifferentiated chondrosarcoma, or High-grade undifferentiated pleomorphic sarcoma (UPS) of the bone: Relapsed, Refractory, or Metastatic",High-Dose Methotrexate/Ifosfamide/Etoposide—High-Dose Methotrexate Course
+Bone Cancer,"Osteosarcoma, Dedifferentiated chondrosarcoma, or High-grade undifferentiated pleomorphic sarcoma (UPS) of the bone: Relapsed, Refractory, or Metastatic",High-Dose Methotrexate/Ifosfamide/Etoposide—Ifosfamide/Etoposide Course
+Bone Cancer,"Osteosarcoma, Dedifferentiated chondrosarcoma, or High-grade undifferentiated pleomorphic sarcoma (UPS) of the bone: Neoadjuvant, Adjuvant, or Metastatic",MAP (High-Dose Methotrexate/CISplatin/DOXOrubicin)—High-Dose Methotrexate Course
+Bone Cancer,"Osteosarcoma, Dedifferentiated chondrosarcoma, or High-grade undifferentiated pleomorphic sarcoma (UPS) of the bone: Neoadjuvant, Adjuvant, or Metastatic",MAP (High-Dose Methotrexate/CISplatin/DOXOrubicin)—CISplatin/DOXOrubicin Course
+Bone Cancer,"Osteosarcoma, Dedifferentiated chondrosarcoma, or High-grade undifferentiated pleomorphic sarcoma (UPS) of the bone: Neoadjuvant, Adjuvant, or Metastatic",MAP (High-Dose Methotrexate/CISplatin/DOXOrubicin)—DOXOrubicin Course
+Bone Cancer,"Ewing sarcoma, Osteosarcoma, Mesenchymal chondrosarcoma, Dedifferentiated chondrosarcoma, or High-grade undifferentiated pleomorphic sarcoma (UPS) of the bone: Relapsed, Refractory, or Metastatic",Gemcitabine/DOCEtaxel
+Bone Cancer,"Osteosarcoma, Dedifferentiated chondrosarcoma, or High-grade undifferentiated pleomorphic sarcoma (UPS) of the bone: Relapsed, Refractory, or Metastatic",Gemcitabine
+Bone Cancer,Chordoma: Recurrent or Metastatic,Imatinib/CISplatin
+Bone Cancer,Chordoma: Recurrent or Metastatic,Imatinib/Sirolimus
+Bone Cancer,Chordoma: Recurrent or Metastatic,Imatinib
+Bone Cancer,Chordoma: Recurrent or Metastatic,SUNItinib
+Bone Cancer,Chordoma: Recurrent or Metastatic,Erlotinib
+Bone Cancer,"Chordoma: Recurrent or MetastaticOsteosarcoma, Dedifferentiated chondrosarcoma, or High-grade undifferentiated pleomorphic sarcoma (UPS) of the bone: Relapsed, Refractory, or Metastatic",SORAfenib
+Bone Cancer,Giant cell tumor of the bone: Primary,Denosumab
+Bone Cancer,Giant cell tumor of the bone: Primary,Interferon alfa-2b
+Bone Cancer,Chordoma: Recurrent or Metastatic - EGFR mutation positive,Lapatinib
+Bone Cancer,"Ewing sarcoma, Osteosarcoma, Mesenchymal chondrosarcoma, Dedifferentiated chondrosarcoma, or High-grade undifferentiated pleomorphic sarcoma (UPS) of the bone: Relapsed, Refractory, or Metastatic",Ifosfamide
+Bone Cancer,"Ewing sarcoma, Mesenchymal chondrosarcoma, Osteosarcoma, Dedifferentiated chondrosarcoma, or High-grade undifferentiated pleomorphic sarcoma (UPS) of the bone: MSI-H/dMMR tumors - Unresectable or Metastatic - Subsequent therapy",Pembrolizumab
+Bone Cancer,Ewing sarcoma or Mesenchymal chondrosarcoma: Neoadjuvant or Adjuvant - Age <50 years,VDC-IE (VinCRIStine/DOXOrubicin [or DACTINomycin]/Cyclophosphamide-Ifosfamide/Etoposide)—VDC (VinCRIStine/DOXOrubicin [or DACTINomycin]/Cyclophosphamide) Course
+Bone Cancer,Ewing sarcoma or Mesenchymal chondrosarcoma: Neoadjuvant or Adjuvant - Age <50 years,VDC-IE (VinCRIStine/DOXOrubicin [or DACTINomycin]/Cyclophosphamide-Ifosfamide/Etoposide)—IE (Ifosfamide/Etoposide) Course
+Bone Cancer,"Osteosarcoma, Dedifferentiated chondrosarcoma, or High-grade undifferentiated pleomorphic sarcoma (UPS) of the bone: Relapsed, Refractory, or Metastatic",Ifosfamide/Etoposide
+Bone Cancer,Chordoma: Recurrent or Metastatic Chondrosarcoma: Distant metastases,Dasatinib
+Bone Cancer,"Osteosarcoma, Dedifferentiated chondrosarcoma, or High-grade undifferentiated pleomorphic sarcoma (UPS) of the bone: Relapsed, Refractory, or Metastatic",Regorafenib
+Bone Cancer,"Osteosarcoma, Dedifferentiated chondrosarcoma, or High-grade undifferentiated pleomorphic sarcoma (UPS) of the bone: Relapsed, Refractory, or Metastatic",Sorafenib + Everolimus
+Bone Cancer,Chondrosarcoma: Metastatic,PAZOPanib
+Bone Cancer,Conventional chondrosarcoma or Dedifferentiated chondrosarcoma: IDH1 mutation,Ivosidenib
+Bone Cancer,"Ewing sarcoma, Osteosarcoma, Mesenchymal chondrosarcoma, Dedifferentiated chondrosarcoma, or High-grade undifferentiated pleomorphic sarcoma (UPS) of the bone: Relapsed/Refractory or Metastatic - Second-line",Cabozantinib
